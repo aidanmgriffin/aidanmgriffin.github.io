@@ -1,1 +1,3 @@
-<center> Aidan Griffin </center>
+# Education
+# Experience
+# Skills
